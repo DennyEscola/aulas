@@ -3,7 +3,7 @@
 }
 
 .gradiente{
-    background: linear-gradient(white, red);
+    background: linear-gradient(rgba(255, 255, 255, 0), red);
 }
 
 .imagem{
