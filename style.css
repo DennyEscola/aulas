@@ -1,3 +1,11 @@
 .cor-solida{
     background-color: aquamarine;
 }
+
+.gradiente{
+    background: linear-gradient(white, red);
+}
+
+.imagem{
+    background-image: none;
+}
