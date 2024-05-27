@@ -7,6 +7,7 @@
 }
 
 .imagem{
-    background-image: url(https://s2-autoesporte.glbimg.com/hiObnt0K_Q6QkKyOGqk-UE_v0zs=/0x0:1800x1012/924x0/smart/filters:strip_icc/i.s3.glbimg.com/v1/AUTH_cf9d035bf26b4646b105bd958f32089d/internal_photos/bs/2022/Q/8/Bb51JTSmuPuDs4enaVtg/lamborghini-urus-performante-01.jpg);
-background-size: cover;
+    background-image: url(https://motorshow.com.br/wp-content/uploads/sites/2/2019/10/1afce558-lamborghini-urus-st-x-1.jpg);
+    background-size: cover;
+    background-position: center;
 }
